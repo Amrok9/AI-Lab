@@ -47,4 +47,8 @@ In the next chapter, we'll explore more advanced **supervised learning** techniq
 
 Stay tuned and follow the repository ⭐ to keep learning with every new release!
 
+## 📬 Connect with Me
+
+- LinkedIn: [linkedin.com/in/amrkhaled](https://linkedin.com/in/amrkhaled)
+
 ---
