@@ -49,6 +49,6 @@ Stay tuned and follow the repository ⭐ to keep learning with every new release
 
 ## 📬 Connect with Me
 
-- LinkedIn: [linkedin.com/in/amrkhaled](https://linkedin.com/in/amrkhaled)
+- LinkedIn: [linkedin.com/in/amrkhaled]([https://linkedin.com/in/amrkhaled](https://www.linkedin.com/in/amr-khaleddd/))
 
 ---
