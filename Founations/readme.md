@@ -14,6 +14,7 @@ From linear and logistic regression to clustering, decision trees, and dimension
 
 ## 📚 Projects Included
 
+
 | #  | Project Title                                | Description |
 |:--:|----------------------------------------------|-------------|
 | 1  | **Predict House Prices**                     | Predict median home prices in California using Linear Regression. |
@@ -22,10 +23,11 @@ From linear and logistic regression to clustering, decision trees, and dimension
 | 4  | **Decision Tree Classifier for Credit Risk** | Classify borrowers as high or low risk based on financial data. |
 | 5  | **Random Forest on Breast Cancer Dataset**   | Predict if breast cancer is malignant or benign using Random Forest. |
 | 6  | **Naive Bayes Text Classifier**              | Build a spam detector using Multinomial Naive Bayes on text messages. |
-| 7  | *(Coming Soon)*                              | *Reserved for upcoming project.* |
+| 7  | **SVM for Handwritten Digit Recognition**    | Use a Support Vector Machine (SVM) to classify handwritten digits using image data. |
 | 8  | **PCA for Dimensionality Reduction**         | Visualize high-dimensional digit data in 2D using PCA. |
 | 9  | **Gradient Descent from Scratch**            | Implement linear regression with gradient descent using only Python and NumPy. |
 | 10 | **Hyperparameter Tuning with GridSearchCV**  | Optimize an SVM classifier on the Iris dataset using GridSearchCV. |
+
 
 ---
 
