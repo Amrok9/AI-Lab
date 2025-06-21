@@ -10,6 +10,7 @@ From linear and logistic regression to clustering, decision trees, and dimension
 - 🔁 Developers revisiting the basics  
 - 🚀 Anyone building a strong ML foundation
 
+
 ---
 
 ## 📚 Projects Included
