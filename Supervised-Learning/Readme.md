@@ -4,7 +4,7 @@ Welcome to the **Supervised Learning** section of my AI project journey.
 
 This chapter builds on the foundational concepts and dives deeper into **predictive modeling** using labeled data. These projects span a wide range of applications — from finance and healthcare to natural language processing and image recognition.
 
-Each project is built with real-world datasets and focuses on developing practical skills in training, evaluating, and deploying machine learning models.
+Each project is built with datasets and focuses on developing practical skills in training, evaluating, and deploying machine learning models.
 
 Perfect for:
 
