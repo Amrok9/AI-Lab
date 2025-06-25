@@ -40,11 +40,14 @@ Perfect for:
 
 ---
 
-## 🚀 What’s Next: Deep Learning & Real-World AI Projects
+## 🚀 What’s Next: Unsupervised & Semi-Supervised Learning Projects
 
-In the upcoming chapters, we’ll explore cutting-edge deep learning models and real-world AI applications across domains like NLP, computer vision, and recommendation systems.
+In the upcoming chapters, we’ll dive into powerful **unsupervised** and **semi-supervised** learning techniques — exploring applications such as clustering, anomaly detection, dimensionality reduction, and learning from limited labeled data.
+
+These projects will help bridge the gap between classic supervised methods and more advanced machine learning strategies used in real-world AI systems.
 
 ⭐ **Follow the repository to stay updated with new releases!**
+
 
 ---
 
