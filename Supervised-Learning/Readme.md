@@ -20,7 +20,7 @@ Perfect for:
 |:--:|----------------------------------------------------|-------------|
 | 11 | **Predict Stock Prices with LSTM**                 | Use an LSTM network to predict future stock closing prices using historical data. |
 | 12 | **Predict Bike Rentals with Time-Series Models**   | Forecast daily bike rental counts using Seasonal ARIMA. |
-| 13 | **Forecast Weather Using ARIMA**                   | Predict next month's daily temperatures with ARIMA models. |
+| 13 | **Forecast Weather Using ARIMA**                   | Predict next week's daily temperatures with ARIMA models. |
 | 14 | **Predict Heart Disease with XGBoost**             | Use patient health metrics to classify heart disease using XGBoost. |
 | 15 | **Image Classification with CNN (MNIST)**          | Train a CNN to recognize handwritten digits from the MNIST dataset. |
 | 16 | **Voice Gender Classifier**                        | Predict speaker gender based on acoustic features using Random Forest. |
