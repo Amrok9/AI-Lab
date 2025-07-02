@@ -16,7 +16,7 @@ Each folder contains 10 projects designed to build your skills in real-world dat
 
 | Folder | Description |
 |--------|-------------|
-| [`🎓 Foundations`](./🎓%20Foundations/) | Essential ML algorithms: linear regression, decision trees, clustering, PCA, and more. Perfect for beginners. |
+| [`🎓 Foundations`](./🎓%Foundations/) | Essential ML algorithms: linear regression, decision trees, clustering, PCA, and more. Perfect for beginners. |
 | [`✅ Supervised Learning`](./Supervised%20Learning/) | Build predictive models with labeled data: image classification, heart disease prediction, stock forecasting, and more. |
 | [`🧩 Unsupervised & Semi-Supervised Learning`](./Unsupervised%20%26%20Semi-Supervised%20Learning/) | Learn from unlabeled data: clustering, anomaly detection, self-training, autoencoders, and recommender systems. |
 
