@@ -56,3 +56,11 @@ Each folder contains 10 projects designed to build your skills in real-world dat
 - 💼 Job seekers preparing for technical interviews  
 - 🤝 Anyone curious about applied machine learning
 
+---
+
+## 📬 Contact Me
+
+If you'd like to connect, collaborate, or give feedback — feel free to reach out:
+
+- 💼 [LinkedIn – Amr Khaled](https://www.linkedin.com/in/amr-khaleddd/)
+- 📧 Email: amrkhaled.gm@gmail.com
